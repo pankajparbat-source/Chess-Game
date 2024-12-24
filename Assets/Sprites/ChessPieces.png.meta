@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: 9d08652b5dff69e45b72ce417141273a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 288, z: 1, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChessPieces_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 168
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8b299f862f9d7428bb5f0693156e25
+      internalID: 15541304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChessPieces_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 165
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ac403d1a1b4ea4ea43d9b67222d325
+      internalID: -1955487208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChessPieces_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 167
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba2139d2e6f2e1478094c008c6f883f
+      internalID: -1069220577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChessPieces_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 165
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2ed2066cded7a45887843b3953cfcf
+      internalID: 1457456300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChessPieces_4
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 165
+        width: 115
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4845d6a696a32ce4f95f91a7a13b6356
+      internalID: 1362186484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChessPieces_5
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 167
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d364cd9951574343a6e8e802a41d5c5
+      internalID: -762613740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChessPieces_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3f3bba47f6e574a8727c132563ada9
+      internalID: 849039215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChessPieces_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 19
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f058c646f93a644c9350ef74141f625
+      internalID: -626229701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChessPieces_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 16
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d601a715d687bd489d7d18a38b400bf
+      internalID: 1574137023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChessPieces_9
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 17
+        width: 117
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d862f4ff5a05b4093aceedf12a900e
+      internalID: -1063485376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChessPieces_10
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 16
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f7351f49aa1dd4e8c6fc925a1beeb3
+      internalID: -1338234303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChessPieces_11
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 14
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c2392adaa093049a7a05f1f0afc445
+      internalID: -148528716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 99, y: -22}
+      - {x: 85, y: -22}
+      - {x: 59, y: -48}
+      - {x: 49, y: -67}
+      - {x: 49, y: -115}
+      - {x: 52, y: -116}
+      - {x: 137, y: -116}
+      - {x: 137, y: -71}
+      - {x: 128, y: -48}
+    - - {x: -106, y: -33}
+      - {x: -110, y: -44}
+      - {x: -110, y: -113}
+      - {x: -109, y: -114}
+      - {x: -40, y: -114}
+      - {x: -40, y: -33}
+    - - {x: 236, y: -33}
+      - {x: 219, y: -74}
+      - {x: 219, y: -94}
+      - {x: 243, y: -114}
+      - {x: 301, y: -114}
+      - {x: 301, y: -62}
+      - {x: 265, y: -33}
+    - - {x: 399, y: -114}
+      - {x: 459, y: -114}
+      - {x: 459, y: -89}
+      - {x: 449, y: -36}
+      - {x: 439, y: -33}
+      - {x: 412, y: -33}
+      - {x: 399, y: -50}
+    - - {x: -432, y: -24}
+      - {x: -452, y: -33}
+      - {x: -452, y: -113}
+      - {x: -384, y: -113}
+      - {x: -369, y: -90}
+      - {x: -369, y: -40}
+      - {x: -390, y: -24}
+    - - {x: -228, y: -25}
+      - {x: -232, y: -35}
+      - {x: -232, y: -48}
+      - {x: -234, y: -53}
+      - {x: -232, y: -37}
+      - {x: -233, y: -25}
+      - {x: -289, y: -25}
+      - {x: -289, y: -87}
+      - {x: -276, y: -113}
+      - {x: -211, y: -113}
+      - {x: -195, y: -53}
+      - {x: -195, y: -39}
+      - {x: -225, y: -25}
+    - - {x: -270, y: -54}
+      - {x: -270, y: -48}
+      - {x: -269, y: -47}
+      - {x: -271, y: -44}
+      - {x: -268, y: -49}
+      - {x: -267, y: -61}
+      - {x: -266, y: -60}
+    - - {x: -217, y: -50}
+      - {x: -216, y: -49}
+      - {x: -214, y: -44}
+      - {x: -217, y: -57}
+      - {x: -219, y: -60}
+      - {x: -218, y: -61}
+      - {x: -217, y: -60}
+    - - {x: 71, y: 120}
+      - {x: 48, y: 59}
+      - {x: 48, y: 26}
+      - {x: 136, y: 26}
+      - {x: 136, y: 111}
+      - {x: 112, y: 120}
+    - - {x: -429, y: 119}
+      - {x: -453, y: 91}
+      - {x: -453, y: 47}
+      - {x: -438, y: 29}
+      - {x: -387, y: 29}
+      - {x: -370, y: 59}
+      - {x: -370, y: 91}
+      - {x: -403, y: 119}
+    - - {x: -214, y: 117}
+      - {x: -251, y: 117}
+      - {x: -253, y: 112}
+      - {x: -254, y: 107}
+      - {x: -252, y: 100}
+      - {x: -254, y: 106}
+      - {x: -261, y: 117}
+      - {x: -265, y: 117}
+      - {x: -278, y: 111}
+      - {x: -291, y: 102}
+      - {x: -291, y: 51}
+      - {x: -290, y: 29}
+      - {x: -212, y: 29}
+      - {x: -197, y: 81}
+      - {x: -197, y: 100}
+      - {x: -201, y: 107}
+    - - {x: -41, y: 29}
+      - {x: -41, y: 107}
+      - {x: -42, y: 109}
+      - {x: -110, y: 109}
+      - {x: -110, y: 29}
+    - - {x: 234, y: 110}
+      - {x: 219, y: 77}
+      - {x: 219, y: 43}
+      - {x: 223, y: 33}
+      - {x: 243, y: 29}
+      - {x: 301, y: 29}
+      - {x: 301, y: 83}
+      - {x: 300, y: 87}
+      - {x: 258, y: 110}
+    - - {x: 398, y: 58}
+      - {x: 398, y: 29}
+      - {x: 458, y: 29}
+      - {x: 458, y: 63}
+      - {x: 445, y: 110}
+      - {x: 421, y: 110}
+      - {x: 411, y: 101}
+    - - {x: -271, y: 87}
+      - {x: -271, y: 98}
+      - {x: -273, y: 101}
+      - {x: -274, y: 99}
+      - {x: -271, y: 96}
+      - {x: -271, y: 95}
+      - {x: -270, y: 94}
+      - {x: -269, y: 82}
+      - {x: -268, y: 83}
+    - - {x: -219, y: 92}
+      - {x: -218, y: 93}
+      - {x: -216, y: 98}
+      - {x: -217, y: 88}
+      - {x: -219, y: 85}
+      - {x: -220, y: 83}
+      - {x: -219, y: 83}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ChessPieces_0: 15541304
+      ChessPieces_1: -1955487208
+      ChessPieces_10: -1338234303
+      ChessPieces_11: -148528716
+      ChessPieces_2: -1069220577
+      ChessPieces_3: 1457456300
+      ChessPieces_4: 1362186484
+      ChessPieces_5: -762613740
+      ChessPieces_6: 849039215
+      ChessPieces_7: -626229701
+      ChessPieces_8: 1574137023
+      ChessPieces_9: -1063485376
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
